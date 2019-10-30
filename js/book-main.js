@@ -1,5 +1,6 @@
 'use strict'
 console.log('chen chen chen')
+console.log('yovel yovel yovel')
 $(document).ready(init);
 
 function init() {
