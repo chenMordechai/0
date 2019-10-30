@@ -1,11 +1,11 @@
 'use strict'
-
+console.log('chen chen chen')
 $(document).ready(init);
 
 function init() {
     createBooks()
     renderBooks()
-    console.log(gBooks)
+    // console.log(gBooks)
 }
 
 
